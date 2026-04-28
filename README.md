@@ -49,14 +49,6 @@ Atualmente cursando o [2º] período de [Ánalise e Desenvolvimento de Sistemas]
 Abaixo, a organização deste repositório para facilitar a navegação:
  
 ├── README.md (Principal)
-
-├── .github/ (Opcional: para imagens e assets)
-
 ├── cv/
-│   ├── script_criacao.sql
-│   ├── diagrama_er.png
-│   └── README.md (Específico do projeto)
-└── inteligencia-artificial-01/
-    ├── notebook_analise.ipynb
-    ├── dataset.csv
-    └── README.md (Específico do projeto)
+│Curriculo_Kayk_Ferreira_Candido.pdf
+
