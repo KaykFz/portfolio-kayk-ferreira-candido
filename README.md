@@ -40,9 +40,8 @@ Atualmente cursando o [2º] período de [Ánalise e Desenvolvimento de Sistemas]
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SoftDepth** | uma plataforma de design de interface (UI) que materializa a evolução estética do Neumorfismo (Soft UI). | [Ver Projeto](projeto_SoftDepth) |
-| :--- | :--- | :---: |
 | **Laboratório de Classificação Visual** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](projeto_Laboratório_de_Classificação_Visual) |
+| **SoftDepth** | uma plataforma de design de interface (UI) que materializa a evolução estética do Neumorfismo (Soft UI). | [Ver Projeto](projeto_SoftDepth) |
  
 ---
  
