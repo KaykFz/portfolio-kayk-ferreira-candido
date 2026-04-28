@@ -39,7 +39,7 @@ Atualmente cursando o [2º] período de [Ánalise e Desenvolvimento de Sistemas]
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](projeto_Laboratório_de_Classificação_Visual) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
