@@ -40,8 +40,8 @@ Atualmente cursando o [2º] período de [Ánalise e Desenvolvimento de Sistemas]
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | Treina um modelo usando um conjunto de imagens propositalmente enviesado, baseado em estereótipos. | [Ver Projeto](projeto_Laboratório_de_Classificação_Visual) |
-| **Engenharia Reversa** | Neste projeto foi realizado uma plataforma de design de interface (UI) que materializa a evolução estética do Neumorfismo (Soft UI). | [Ver Projeto](projeto_SoftDepth) |
+| **Laboratório de Classificação Visual** | Treina um modelo usando um conjunto de imagens propositalmente enviesado, baseado em estereótipos. | [Ver Projeto](SM2-Laboratório-de-Classificação-Visual) |
+| **Engenharia Reversa** | Neste projeto foi realizado uma plataforma de design de interface (UI) que materializa a evolução estética do Neumorfismo (Soft UI). | [Ver Projeto](SM4-Engenharia-Reversa) |
  
 ---
  
