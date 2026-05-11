@@ -19,11 +19,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Luar Seco] | [Pop Alternativo] | [Arquivo MP3](./audio/Luar-Seco) |
+| 01 | [Luar Seco] | [Pop Alternativo] | [Arquivo MP3](/audio/Luar-Seco) |
 | 02 | [Caminhada de Mão Dada] | [Reaggae] | [Arquivo MP3](./audio/Caminhada-de-Mão-Dada) |
-| 03 | [Luz na Estrada] | [Pop/Rock] | [Arquivo MP3](./audio/Luz-na-Estrada) |
-| 04 | [Sombra do Meio-Dia] | [Trap] | [Arquivo MP3](./audio/Sombra-do-Meio-Dia) |
-| 05 | [Janela Sem Luz] | [Britpop] | [Arquivo MP3](./audio/Janela-Sem-Luz) |
+| 03 | [Luz na Estrada] | [Pop/Rock] | [Arquivo MP3](/audio/Luz-na-Estrada) |
+| 04 | [Sombra do Meio-Dia] | [Trap] | [Arquivo MP3](/audio/Sombra-do-Meio-Dia) |
+| 05 | [Janela Sem Luz] | [Britpop] | [Arquivo MP3](/audio/Janela-Sem-Luz) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
