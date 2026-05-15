@@ -40,7 +40,7 @@ Atualmente cursando o [2º] período de [Ánalise e Desenvolvimento de Sistemas]
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | Este projeto tem como Objetivo assumir o papel de especialistas na mediação de IA, utilizando o modelo Qwen para gerar resultados (texto e imagem) de alta precisão. | [Ver Projeto](SM1-A-Corrida-do-Prompt) |
+| **A Corrida Do Prompt** | Este projeto tem como Objetivo assumir o papel de especialistas na mediação de IA, utilizando o modelo Qwen para gerar resultados (texto e imagem) de alta precisão. | [Ver Projeto](SM1-A-Corrida-do-Prompt) |
 | **Laboratório de Classificação Visual** | Treina um modelo usando um conjunto de imagens propositalmente enviesado, baseado em estereótipos. | [Ver Projeto](SM2-Laboratório-de-Classificação-Visual) |
 | **Engenharia Reversa** | Projeto de Desenvolvimento assistido por IA, competências emergentes e os limites éticos da engenharia reversa, destacando pensamento crítico, adaptação tecnológica e originalidade na criação de software. | [Ver Projeto](SM4-Engenharia-Reversa) |
 | **Do Clone ao Produto Mínimo Viável (MVP+)** | Neste projeto foi realizado uma plataforma de design de interface (UI) que materializa a evolução estética do Neumorfismo (Soft UI). | [Ver Projeto](SM5-Do-Clone-ao-Produto-Mínimo-Viável-(MVP+)) |
