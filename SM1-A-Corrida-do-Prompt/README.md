@@ -23,3 +23,6 @@ Este repositório contém os registros e resultados da atividade prática **"A C
 * **Aderência:** Proximidade milimétrica com as restrições dos comandos.
 * **Eficiência:** Quantidade de iterações utilizadas (menos é mais).
 * **Controle:** Capacidade de guiar o comportamento da IA sem gerar alucinações.
+
+Autor: Kayk Ferreira Cândido
+
