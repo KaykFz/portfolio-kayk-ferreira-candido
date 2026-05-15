@@ -1,9 +1,25 @@
-# A Corrida do Prompt — Engenharia de Instrução
-Este repositório contém os registros e resultados da atividade prática "A Corrida do Prompt", realizada utilizando o modelo de IA QWEAN via dispositivos móveis. O objetivo do desafio é dominar a engenharia de instrução para atingir o "Alvo" ideal em no máximo 5 iterações.
+# # A Corrida do Prompt — Engenharia de Instrução
 
-📁 Estrutura da Pasta
-README.md: Este guia de navegação e contextualização da atividade.
+Este repositório contém os registros e resultados da atividade prática **"A Corrida do Prompt"**, realizada utilizando o modelo de IA **QWEAN** via dispositivos móveis. O objetivo do desafio é dominar a engenharia de instrução para atingir o "Alvo" ideal em no máximo **5 interações**.
 
-Prompt-Astronauta.jpg: Output visual final do Desafio 1 (Imagem), validando a precisão estética e o bloqueio de elementos externos solicitados no prompt.
+---
 
-E-Mail-de-Desculpas-de-um-Pirata-para-um-Rei.pdf: Registro histórico da evolução dos textos do Desafio 2, contendo os 5 prompts utilizados e suas respectivas respostas (do nível básico ao cenário de crise máxima).
+## 📁 Estrutura da Pasta
+
+* **`README.md`**: Este guia de navegação e contextualização da atividade.
+* [cite_start]**`E-Mail-de-Desculpas-de-um-Pirata-para-um-Rei.pdf`**: Registro histórico da evolução dos textos do Desafio, contendo os 5 prompts utilizados e suas respectivas respostas (do nível básico ao cenário de crise máxima)
+
+---
+
+## 🎯 Desafio Executado
+
+### 📜 Engenharia Textual (`E-Mail-de-Desculpas-de-um-Pirata-para-um-Rei.pdf`)
+* **Alvo:** E-mail formal de desculpas do Capitão Silas Vance para o Rei Valerius III[cite: 2, 3].
+* **Foco Técnico:** Progressão de complexidade lógica e narrativa. O documento mapeia desde o pedido simples de vênia até a resolução de uma crise diplomática (envolvendo crimes na corte, a Princesa Isolde e uma ameaça de execução em 48 horas)[cite: 5, 43, 76, 89, 114, 131, 153].
+
+---
+
+## 🏆 Critérios de Avaliação
+* **Aderência:** Proximidade milimétrica com as restrições dos comandos.
+* **Eficiência:** Quantidade de iterações utilizadas (menos é mais).
+* **Controle:** Capacidade de guiar o comportamento da IA sem gerar alucinações.
