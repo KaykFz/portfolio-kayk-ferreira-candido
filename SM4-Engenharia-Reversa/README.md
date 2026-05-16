@@ -44,4 +44,4 @@ O material analítico presente no repositório discute duas vertentes cruciais s
 * **Visão Crítica e Ética:** Capacidade de avaliar dilemas de direitos autorais e propor soluções de segurança em desenvolvimento automatizado.
 * **Auditoria de Sistemas:** Rigor técnico no refinamento de *System Instructions* para mitigar alucinações das ferramentas generativas.
 
-Autor: Kayk Ferreira Cândido
+Desenvolvido por [[Kayk Ferreira Cândido]](https://github.com/KaykFz)
