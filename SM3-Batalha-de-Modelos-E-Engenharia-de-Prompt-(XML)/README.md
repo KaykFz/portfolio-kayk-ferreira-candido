@@ -35,4 +35,4 @@ A análise priorizou a conformidade técnica (respeito às tags, ausência de bu
 * **Análise Comparativa:** Capacidade de mapear os pontos fortes e as limitações de cada arquitetura de IA.
 * **Otimização de Recursos:** Avaliação crítica da relação entre o consumo de tokens e a qualidade do código entregue.
 
-Autor: Kayk Ferreira Cândido
+Desenvolvido por [[Kayk Ferreira Cândido]](https://github.com/KaykFz)
