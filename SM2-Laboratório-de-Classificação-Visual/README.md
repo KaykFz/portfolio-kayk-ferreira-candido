@@ -35,4 +35,4 @@ Dados inconsistentes são corrigidos ou removidos, e especialistas continuam aud
 * **Rigor Gramatical:** Aplicação obrigatória de verbos no presente do indicativo na fundamentação do memorial ético.
 * **Intervenção Prática:** Proposta de mecanismos de curadoria humana para assegurar a equidade e a mitigação de danos em sistemas automatizados.
 
-Autor: Kayk Ferreira Cândido
+Desenvolvido por [[Kayk Ferreira Cândido]](https://github.com/KaykFz)
