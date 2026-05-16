@@ -55,9 +55,7 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 ├── README.md (Principal)
 
 ├── cv/
-│ 
-
-
+│
 │ Curriculo_Kayk_Ferreira_Candido.pdf
 
 ├── Projeto-nome/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
