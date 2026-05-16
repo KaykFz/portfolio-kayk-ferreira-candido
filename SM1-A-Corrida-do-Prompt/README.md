@@ -24,5 +24,5 @@ Este repositório contém os registros e resultados da atividade prática **"A C
 * **Eficiência:** Quantidade de iterações utilizadas (menos é mais).
 * **Controle:** Capacidade de guiar o comportamento da IA sem gerar alucinações.
 
-Autor: Kayk Ferreira Cândido
+Desenvolvido por [[Kayk Ferreira Cândido]](https://github.com/KaykFz)
 
