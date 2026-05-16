@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [2º] período de [Ánalise e Desenvolvimento de Sistemas] na [UNICID - Universidade Cidade de São Paulo]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Redes e Infraestrutura / Desenvolvimento Front-End].
+Atualmente cursando o [2º] período de [Ánalise e Desenvolvimento de Sistemas] na [UNICID - Universidade Cidade de São Paulo]. Entendi cedo que o mercado mudou. Hoje, ferramentas generativas criam códigos em segundos, mas elas ainda alucinam e geram vulnerabilidades ocultas. Escolhi essa área porque quero me capacitar para ser o Auditor desse processo — o profissional que entende o negócio, refina as instruções lógicas e garante a segurança do software, Embora eu possua interesse em toda a área de TI, Estou focado em [Redes e Infraestrutura / Desenvolvimento Front-End].
  
 * **Habilidades Técnicas:** [Python, Java, SQL, AWS].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e organização com foco no objetivo.
