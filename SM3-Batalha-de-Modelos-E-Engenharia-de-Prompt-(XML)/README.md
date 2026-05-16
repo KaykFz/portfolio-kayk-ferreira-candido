@@ -1,13 +1,13 @@
 # # Batalha de Modelos & Engenharia de Prompt (XML)
 
-[cite_start]Este repositório armazena a documentação, os registros de testes e as análises comparativas da atividade prática **"Batalha de Modelos & Engenharia de Prompt (XML)"**[cite: 369]. [cite_start]O objetivo do projeto é estruturar instruções utilizando a sintaxe XML para testar e avaliar a precisão técnica, a conformidade de regras e a verbosidade de diferentes Grandes Modelos de Linguagem (LLMs) no desenvolvimento Front-end[cite: 369, 371, 372].
+Este repositório armazena a documentação, os registros de testes e as análises comparativas da atividade prática **"Batalha de Modelos & Engenharia de Prompt (XML)"**. O objetivo do projeto é estruturar instruções utilizando a sintaxe XML para testar e avaliar a precisão técnica, a conformidade de regras e a verbosidade de diferentes Grandes Modelos de Linguagem (LLMs) no desenvolvimento Front-end.
 
 ---
 
 ## 📁 Estrutura da Pasta
 
 * **`README.md`**: Este guia de navegação e contextualização da atividade.
-* [cite_start]**`Experiência 3 - Batalha de Modelos & Engenharia de Prompt (XML).pdf`**: Relatório técnico contendo a estrutura do prompt XML utilizado, o quadro de análise comparativa com sete modelos e a reflexão crítica final[cite: 369, 374, 375, 378].
+* **`Experiência 3 - Batalha de Modelos & Engenharia de Prompt (XML).pdf`**: Relatório técnico contendo a estrutura do prompt XML utilizado, o quadro de análise comparativa com sete modelos e a reflexão crítica final.
 
 ---
 
@@ -34,3 +34,5 @@ A análise priorizou a conformidade técnica (respeito às tags, ausência de bu
 * **Precisão Técnica:** Fidelidade na execução das instruções contidas nas tags estruturadas.
 * **Análise Comparativa:** Capacidade de mapear os pontos fortes e as limitações de cada arquitetura de IA.
 * **Otimização de Recursos:** Avaliação crítica da relação entre o consumo de tokens e a qualidade do código entregue.
+
+Autor: Kayk Ferreira Cândido
