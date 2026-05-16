@@ -7,7 +7,7 @@ Este repositório armazena a documentação, os registros de testes e as anális
 ## 📁 Estrutura da Pasta
 
 * **`README.md`**: Este guia de navegação e contextualização da atividade.
-* **`Experiência 3 - Batalha de Modelos & Engenharia de Prompt (XML).pdf`**: Relatório técnico contendo a estrutura do prompt XML utilizado, o quadro de análise comparativa com sete modelos e a reflexão crítica final.
+* **`Experiência-3-Batalha-de-Modelos-&-Engenharia-de-Prompt-(XML).pdf`**: Relatório técnico contendo a estrutura do prompt XML utilizado, o quadro de análise comparativa com sete modelos e a reflexão crítica final.
 
 ---
 
